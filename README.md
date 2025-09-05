@@ -80,3 +80,6 @@ The database schema supports user accounts, chat sessions, and message history w
 - **Shadcn/ui**: Pre-built component library based on Radix UI
 - **Class Variance Authority**: Component variant management
 - **Lucide React**: Icon library for consistent iconography
+
+
+<img width="1440" height="750" alt="Screenshot 2025-09-05 at 6 06 56 PM" src="https://github.com/user-attachments/assets/d062ea53-31ae-4155-9dbc-5698da6e508b" />
